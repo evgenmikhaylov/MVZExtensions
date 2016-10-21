@@ -5,7 +5,7 @@
 //  Copyright © 2016 Igor. All rights reserved.
 //
 
-#import "RACChannel+Extension.h"
+#import "RACChannel+MVZExtensions.h"
 
 @implementation RACChannel (MVZExtensions)
 
