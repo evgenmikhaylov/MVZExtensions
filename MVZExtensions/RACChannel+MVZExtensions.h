@@ -5,7 +5,7 @@
 //  Copyright © 2016 Igor. All rights reserved.
 //
 
-#import <ReactiveCocoa/ReactiveCocoa.h>
+#import "ReactiveCocoa.h"
 
 #define RACChannelTwoWayBinding(firstChannelTerminal, secondChannelTerminal) \
 if (firstChannelTerminal && secondChannelTerminal) \
